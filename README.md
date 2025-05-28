@@ -1,1 +1,2 @@
-# odin-recipes
+Hello everyone!
+My name is Douglas Obeng Asabere, and I’ll be your local chef for the day. I’m from Ghana, located in West Africa, and today I’ll be guiding you through the process of making one of our most popular and beloved dishes: Jollof rice.
